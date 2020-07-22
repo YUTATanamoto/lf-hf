@@ -4,8 +4,8 @@
 
 ## Usage  
 ```
-git clone <THIS_REPOSITRY'S_URL>
-cd <REPOSITORY_NAME>  
+git clone https://github.com/YUTATanamoto/lf-hf.git
+cd lf-hf  
 pipenv install  
 pipenv shell  
 jupyter notebook
