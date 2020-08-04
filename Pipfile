@@ -11,6 +11,8 @@ matplotlib = "*"
 jupyter = "*"
 tqdm = "*"
 pandas = "*"
+pexpect = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"
